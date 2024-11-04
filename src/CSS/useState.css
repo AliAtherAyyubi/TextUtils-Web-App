@@ -1,0 +1,32 @@
+
+.container{
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+.togglebtn{
+    position: absolute;
+    top: 80px;right: 10px;
+}
+textarea{
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.commentbox{
+    margin: 30px auto;
+
+}
+.preview{
+    width: 600px;
+    border: none;
+}
+
